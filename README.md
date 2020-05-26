@@ -2,6 +2,7 @@
 Raccolgo qui una piccola parte della documentazione in italiano disponibile per OpenOffice.org e Apache OpenOffice.
 
 ## Guide organiche
+* [Guida Apache Open Office 4 Writer - Calc](https://github.com/m13o/doo/tree/master/Guida%20Apache%20Open%20Office%204%20Writer%20-%20Calc) (26.05.2020)
 * [Guida introduttiva a OpenOffice.org 3](https://github.com/m13o/doo/tree/master/Guida%20introduttiva%20a%20OpenOffice.org%203) (27.04.2020)
 * [Guida Introduttiva a OpenOffice.org 2.x](https://github.com/m13o/doo/tree/master/Guida%20introduttiva%20a%20OpenOffice.org%202.x) (27.04.2020)
 
